@@ -59,6 +59,8 @@ export function MenuBar(){
         settrialState(st => st+5)
       }}>Trial State: {trialState}</button>
 
+      <h2>Hi</h2>
+
     </>
   )
 }
